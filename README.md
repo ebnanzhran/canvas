@@ -2,4 +2,6 @@
 
 
 
-##  [Let's Go =>](sql.md)
+##  [Introduction to SQL =>](sql.md)
+
+##  [Practice in the Terminal=>](terminal.md)

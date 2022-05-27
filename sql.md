@@ -1,4 +1,4 @@
-# Hii!
+# SQL !
 
 * Exercise 1
 ![](./assest/ex1.PNG)
@@ -36,5 +36,5 @@
 <br>
 <hr>
 
-##  [Next>](sql.md)     
+##  [Next>](terminal.md)     
 ## [<Back](README.md)

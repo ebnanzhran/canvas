@@ -15,3 +15,6 @@
 ![](./assest/14.PNG)
 ![](./assest/15.PNG)
 ![](./assest/Capture1999.PNG)
+<hr>
+
+##  [Back to main page](sql.md)

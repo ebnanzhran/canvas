@@ -36,5 +36,4 @@
 <br>
 <hr>
 
-##  [Next>](terminal.md)     
-## [<Back](README.md)
+##  [Back to main page](sql.md)
